@@ -3,4 +3,5 @@ A constante de Kaprekar pode ser calculada com qualquer número de 4 dígitos, q
 
 # Restrições do Código
 Esse desafio apresentava as seguintes restrições:
+
 ⚠ Atenção: não poderão, em hipótese alguma, ser utilizadas bibliotecas, funções, array, processamento de texto (strings), operadores ou comandos que não tenham sido abordados em sala de aula. O uso de quaisquer recursos externos ou não autorizados resultará na anulação da atividade. A manipulação dos dígitos deve ser feita exclusivamente por meio de operações aritméticas (divisão inteira, resto da divisão etc.), lógicas e relacionais .
